@@ -1,3 +1,4 @@
+
 <h1 align="center">Rohil Lad</h1>
 
 <h3 align="center">
@@ -7,6 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Clean+Architecture;Backend+Stability;Scalable+Web+Apps;Practical+Engineering&center=true&width=600&height=40">
 </p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="full">
 
 ---
 
