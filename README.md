@@ -1,101 +1,112 @@
-# 👋 Hi, I’m **Rohil Lad** 🚀  
-### MERN Stack Developer Intern | React.js • Node.js • MongoDB
+<h1 align="center">Rohil Lad</h1>
 
-🌑 **Internship-Focused**
+<h3 align="center">
+  Full-Stack Developer (MERN) • Backend-Focused • Shopify Theme Development
+</h3>
 
-I’m a **MERN Stack Developer Intern** passionate about building **scalable, responsive, and production-ready web applications**. I enjoy working across the full stack — from clean UI to efficient backend logic and structured databases.
-
----
-
-## 🔥 About Me
-- 💻 MERN Stack Developer Intern at **Sedulous® Infosys**
-- ⚛️ Strong frontend skills with **React.js**
-- 🟢 Backend development using **Node.js & Express.js**
-- 🗄️ Database experience with **MongoDB** & **pgAdmin**
-- 🔁 Building and integrating **RESTful APIs**
-- 🚀 Focused on clean code, performance & real-world problem solving
-
----
-
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,postman,vscode,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohillad1305&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohillad1305&layout=compact&theme=radical" height="165"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Clean+Architecture;Backend+Stability;Scalable+Web+Apps;Practical+Engineering&center=true&width=600&height=40">
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## About
+
+I build **production-oriented web applications** with a strong emphasis on **backend reliability, clean architecture, and maintainable frontend systems**.
+
+My experience spans **full-stack MERN development** and **custom Shopify theme engineering**, with a practical focus on real client requirements, performance, and long-term maintainability.
+
+---
+
+## Core Strengths
+
+- Designing and implementing **RESTful APIs**
+- Backend architecture with **validation, error handling, and stability**
+- Clean, reusable **React component systems**
+- Custom **Shopify theme development using Liquid**
+- Writing code that prioritizes **clarity over cleverness**
+
+---
+
+## Technology Stack
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohillad1305&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,shopify,html,css,tailwind,git,github,postman,vscode" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-> *(Highlighted projects demonstrating MERN & real-world skills)*
+## Selected Work
 
-### 🔹 Expense Tracker (MERN)
-- Full-stack expense management application  
-- Secure authentication & authorization  
-- REST APIs with clean backend architecture  
-- Responsive UI with modern dark theme  
-
-### 🔹 Notification System
-- In-app notifications + email notifications  
-- Real-time updates using Socket concepts  
-- Graceful error handling (no backend crashes)
-
-### 🔹 Dashboard & UI Components
-- Responsive dashboards for all screen sizes  
-- Clean card-based layouts & widgets  
-- Focus on UX, performance & accessibility
-
-*(More projects coming soon 🚀)*
+### Expense Tracker — MERN
+- Authentication & authorization with protected routes
+- Modular backend structure (controllers, middleware, services)
+- Centralized error handling to prevent runtime crashes
+- Responsive UI with consistent design patterns
 
 ---
 
-## 💼 Internship Experience
-**MERN Stack Developer Intern**  
-🏢 *Sedulous® Infosys*  
-📍 Surat, Gujarat, India  
-🗓️ September 2025 – Present  
-
-- Developing real-world MERN stack applications  
-- Fixing bugs and improving performance  
-- Collaborating with team members on feature delivery  
-- Learning production-level workflows & best practices  
+### Custom Shopify Theme
+- Dawn theme customization using **Liquid**
+- Reusable sections and schema-driven blocks
+- Performance-focused UI without third-party apps
+- Clean separation of sections, snippets, and assets
 
 ---
 
-## 🎓 Education
-🎓 **Bachelor of Technology (B.Tech) – Information Technology**  
-🏫 Uka Tarsadia University  
-📅 June 2023 – May 2027
+### Notification System
+- In-app and email notifications
+- Real-time update concepts
+- Input validation and backend stability focus
 
 ---
 
-## 🎯 Currently Focused On
-- Strengthening **full-stack MERN skills**
-- Writing **clean, maintainable, scalable code**
-- Learning **system design & backend stability**
-- Preparing for **full-time developer roles**
+## Professional Experience
+
+**MERN Stack & Shopify Developer Intern**  
+**Sedulous® Infosys** — Surat, India  
+*September 2025 – Present*
+
+- Building and maintaining MERN stack applications
+- Customizing Shopify themes for production use
+- Debugging backend issues and improving reliability
+- Working within team-based development workflows
 
 ---
 
-## 📫 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/rohil-lad-b1246a28a/" target="_blank">
+## Education
+
+**B.Tech — Information Technology**  
+Uka Tarsadia University  
+2023 – 2027
+
+---
+
+## Current Focus
+
+- Backend reliability & API design
+- Production-grade MERN architecture
+- Shopify Liquid best practices
+- Preparing for full-time engineering roles
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohillad1305&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohillad1305&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohil-lad-b1246a28a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/Rohillad1305" target="_blank">
+  <a href="https://github.com/Rohillad1305">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -104,9 +115,4 @@ I’m a **MERN Stack Developer Intern** passionate about building **scalable, re
 
 ---
 
-## ⚡ Fun Fact
-I enjoy debugging backend crashes and turning unstable systems into **production-ready applications** 🔥
-
----
-
-⭐ *Open to internships, collaborations, and junior MERN developer opportunities.*
+> I value **clear code, predictable systems, and long-term maintainability** over shortcuts.
